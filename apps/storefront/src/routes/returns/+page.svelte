@@ -1,0 +1,69 @@
+<svelte:head>
+	<title>Return Policy — Riff Riot Wear</title>
+	<meta name="description" content="Return Policy for Riff Riot Wear — how to return or exchange products." />
+</svelte:head>
+
+<main class="mx-auto max-w-3xl space-y-8 px-4 py-16">
+	<h1 class="h1 text-4xl font-black uppercase tracking-wider" style="font-family: 'Space Grotesk', sans-serif;">
+		Return Policy
+	</h1>
+	<p class="opacity-60">Last updated: March 14, 2026</p>
+
+	<section class="space-y-4">
+		<h2 class="h3 font-bold">Return Eligibility</h2>
+		<p class="leading-relaxed opacity-80">
+			We accept returns within 30 days of delivery. To be eligible for a return, items must be:
+		</p>
+		<ul class="list-disc space-y-2 pl-6 opacity-80">
+			<li>Unworn and unwashed</li>
+			<li>In original packaging with all tags attached</li>
+			<li>Free from odors, stains, or alterations</li>
+		</ul>
+	</section>
+
+	<section class="space-y-4">
+		<h2 class="h3 font-bold">Non-Returnable Items</h2>
+		<ul class="list-disc space-y-2 pl-6 opacity-80">
+			<li>Items marked as "Final Sale"</li>
+			<li>Undergarments and swimwear</li>
+			<li>Gift cards</li>
+			<li>Customized or personalized items</li>
+		</ul>
+	</section>
+
+	<section class="space-y-4">
+		<h2 class="h3 font-bold">How to Initiate a Return</h2>
+		<ol class="list-decimal space-y-2 pl-6 opacity-80">
+			<li>Contact us at <a href="mailto:returns@riffriotwear.com" class="text-primary-500 underline">returns@riffriotwear.com</a> with your order number</li>
+			<li>Receive a pre-paid return shipping label via email</li>
+			<li>Package the item securely and attach the label</li>
+			<li>Drop off the package at the designated carrier location</li>
+		</ol>
+	</section>
+
+	<section class="space-y-4">
+		<h2 class="h3 font-bold">Refunds</h2>
+		<p class="leading-relaxed opacity-80">
+			Once we receive and inspect your return, we will process your refund within 5–10 business days.
+			Refunds are issued to the original payment method. Shipping costs are non-refundable
+			unless the return is due to our error (defective or incorrect item).
+		</p>
+	</section>
+
+	<section class="space-y-4">
+		<h2 class="h3 font-bold">Exchanges</h2>
+		<p class="leading-relaxed opacity-80">
+			We currently do not offer direct exchanges. To get a different size or color,
+			please return the original item and place a new order. We recommend placing
+			your new order promptly to ensure availability.
+		</p>
+	</section>
+
+	<section class="space-y-4">
+		<h2 class="h3 font-bold">Defective or Incorrect Items</h2>
+		<p class="leading-relaxed opacity-80">
+			If you received a defective or incorrect item, contact us immediately. We will
+			cover return shipping costs and send a replacement or issue a full refund.
+		</p>
+	</section>
+</main>

@@ -1,0 +1,1 @@
+.marquee.svelte-6vfrt7{overflow:hidden}.track.svelte-6vfrt7{display:flex;width:max-content;animation:svelte-6vfrt7-marquee 8s linear infinite}.item.svelte-6vfrt7{white-space:nowrap;flex-shrink:0}@keyframes svelte-6vfrt7-marquee{0%{transform:translate(0)}to{transform:translate(var(--shift, -100px))}}

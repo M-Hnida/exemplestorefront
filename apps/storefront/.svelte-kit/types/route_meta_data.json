@@ -1,0 +1,12 @@
+{
+	"/": [
+		"src/routes/+page.server.ts"
+	],
+	"/contact": [],
+	"/privacy": [],
+	"/product/[id]": [],
+	"/returns": [],
+	"/shipping": [],
+	"/terms": [],
+	"/testing": []
+}

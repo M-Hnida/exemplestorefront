@@ -1,0 +1,92 @@
+
+> apps@0.0.1 dev C:\Users\got\Documents\code\riff-riot-wear-24fx\apps\storefront
+> vite dev
+
+
+  [32m[1mVITE[22m v7.3.1[39m  [2mready in [0m[1m1141[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m00:30:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:06[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:10[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:19[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:33[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:35[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:41[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:48[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:54[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:30:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:30:58[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:00[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:06[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:10[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:29[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:31[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:35[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:31:37[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:31:37[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:32:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:32:15[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:32:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:32:31[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:32:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:32:33[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:32:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:32:39[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:33:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:33:36[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:34:16[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:34:16[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:34:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:34:32[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:34:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:34:44[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:34:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:34:48[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:34:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:34:54[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:34:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:34:57[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:35:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:35:03[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:35:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:35:10[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:35:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:35:56[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:36:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:36:08[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:36:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:36:12[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:36:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:36:45[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:38:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:38:20[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:38:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:38:21[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:38:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:38:50[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:38:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:38:52[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:38:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:38:54[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:39:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:39:41[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:40:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:40:04[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+[2m00:40:15[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/+page.svelte, /src/routes/+layout.svelte?svelte&type=style&lang.css[22m
+[2m00:40:15[22m [36m[1m[vite][22m[39m [34m[2m(ssr)[22m[39m [32mpage reload [39m[2msrc/routes/+page.svelte[22m
+ ELIFECYCLE  Command failed with exit code 3221225786.
